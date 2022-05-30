@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   21 mins         █████████████████████████   100.00 %
+Java     21 mins         █████████████████████████   99.82 %
+MATLAB   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
