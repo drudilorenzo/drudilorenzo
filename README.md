@@ -8,10 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 hrs 20 mins  ████████████████▓░░░░░░░░   66.45 %
-SQL          3 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-TypeScript   1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JavaScript   9 hrs 40 mins   ███████████████░░░░░░░░░░   60.09 %
+SQL          3 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+TypeScript   2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
