@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                  11 hrs 49 mins  ███████████████▒░░░░░░░░░   61.83 %
-JavaScript            2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-TypeScript            1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Properties            1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-SQL                   58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-GitIgnore file        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Java                  13 hrs 12 mins  ████████████████░░░░░░░░░   64.09 %
+JavaScript            2 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+TypeScript            1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Properties            1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+GitIgnore file        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Groovy                17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
