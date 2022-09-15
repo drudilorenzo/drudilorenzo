@@ -8,9 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 49 mins    ████████████████████████▓   98.36 %
-Git          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JavaScript   1 hr 49 mins    █████████████████████████   99.42 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
