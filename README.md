@@ -8,7 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+GitIgnore file   0 secs          ██████████▓░░░░░░░░░░░░░░   43.17 %
+JSON             0 secs          ██████████░░░░░░░░░░░░░░░   39.98 %
+Markdown         0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
 ```
 
 <!--END_SECTION:waka-->
