@@ -8,12 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-MATLAB        6 mins          ███████████▓░░░░░░░░░░░░░   46.96 %
-Java          5 mins          █████████░░░░░░░░░░░░░░░░   35.80 %
-Text          1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-C++           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Objective-C   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
