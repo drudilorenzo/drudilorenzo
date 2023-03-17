@@ -8,7 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-MATLAB   14 mins         █████████████████████████   100.00 %
+MATLAB        52 mins         ███████████████████████▓░   94.19 %
+Other         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
