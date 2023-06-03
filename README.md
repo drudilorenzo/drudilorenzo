@@ -7,12 +7,12 @@
 #### Real time coding activity (in the last 7 days)
 <!--START_SECTION:waka-->
 
-```text
-Bash             3 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   41.48 %
-MATLAB           1 hr 47 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
-YAML             1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-Other            32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Markdown         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+```txt
+Bash          5 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.20 %
+YAML          2 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+MATLAB        1 hr 47 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Other         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Markdown      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
