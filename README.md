@@ -18,7 +18,7 @@
   - Machine Learning / Data Analysis
   - Application of Machine Learning to Finance
 
-- 🎓 Bachelor in Computer Science and Engineering at UNIBO, 110/110 cum laude (Alma Mater Studiorum - University of Bologna)
+- 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude (Alma Mater Studiorum - University of Bologna)
 
 - 📚 Master student in Computer Science at EPFL (Minor in Financial Engineering)
 
@@ -84,16 +84,10 @@
     <div>
       <samp>
         <h2 align="center"> Real-time coding activity (in the last 7 days):</h2>
-        <p align="center">        
+        <div align="center" markdown="1">        
           <!--START_SECTION:waka-->
-
-```txt
-JSON   13 mins         ████████████████████████▓   98.78 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-```
-
-<!--END_SECTION:waka-->
-        </p>
+          <!--END_SECTION:waka-->
+        </div>
       </samp>
     </div>  
 </details>
