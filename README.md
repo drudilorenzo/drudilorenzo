@@ -6,17 +6,12 @@
 <h4 align="center">MSc student in Computer Science at EPFL, see my <a href="https://github.com/LorenzoDrudi/LorenzoDrudi/blob/main/resources/LorenzoDrudi_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
-<div align="center" markdown="1">
-  <p align=center>
-  
-    Software and cathedrals are much the same; first we build them, then we pray
-
-  </p>
-</div>
-
------
+> Software and cathedrals are much the same; first we build them, then we pray.
+>
+> Simple things should be simple, complex things should be possible.
 
 <!--Intro start-->
+#### About me:
 - 🔭 Main focus:
   - Backend programming
   - Distributed systems
