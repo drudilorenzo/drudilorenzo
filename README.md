@@ -89,6 +89,12 @@
   
 <p align="center">        
 <!--START_SECTION:waka-->
+
+```txt
+JSON   13 mins         ████████████████████████▓   98.78 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+```
+
 <!--END_SECTION:waka-->
 </p>
   
