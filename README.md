@@ -85,19 +85,16 @@
       <samp>
         <h2 align="center"> Real-time coding activity (in the last 7 days):</h2>
       </samp>
-    </div>  
-</details>
-
+    </div> 
+  
 <p align="center">        
-  <!--START_SECTION:waka-->
-
-```txt
-JSON   13 mins         ████████████████████████▓   98.78 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-```
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </p>
+  
+</details>
+
+
 
 <!--profile visit count-->
 <div align="center">
