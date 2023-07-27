@@ -84,11 +84,9 @@
     <div>
       <samp>
         <h2 align="center"> Real-time coding activity (in the last 7 days):</h2>
-        <p align="center">
-        
+        <p align="center">        
           <!--START_SECTION:waka-->
           <!--END_SECTION:waka-->
-          
         </p>
       </samp>
     </div>  
