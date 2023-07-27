@@ -7,11 +7,11 @@
 </div>
 
 <div align="center" markdown="1">
+  <p align=center>
   
-```
-Software and cathedrals are much the same; first we build them, then we pray
-```
+    Software and cathedrals are much the same; first we build them, then we pray
 
+  </p>
 </div>
 
 -----
@@ -29,7 +29,7 @@ Software and cathedrals are much the same; first we build them, then we pray
 
 - 📫 Feel free to reach me out at **lorenzodrudi11@gmail.com**
 
-- 🏠 Living between Lausanne (Switzerland) and Rimini (Italy).
+- 🏠 Living between Lausanne (Switzerland) and Rimini (Italy)
 <!--Intro end-->
 
 -----
