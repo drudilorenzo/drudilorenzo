@@ -154,7 +154,7 @@ No activity tracked
 <!--profile visit count-->
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LorenzoDrudi&label=Profile%20Views&color=0&icon=0&pretty=false" />
+    <img src="https://visitcount.itsvg.in/api?id=drudilorenzo&label=Profile%20Views&color=0&icon=0&pretty=false" />
   </a>
 </div>
 
