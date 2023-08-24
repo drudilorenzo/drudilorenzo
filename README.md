@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/LorenzoDrudi/LorenzoDrudi/blob/main/resources/waving.gif">, I'm Lorenzo</h1>
-<h4 align="center">MSc student in Computer Science at EPFL, see my <a href="https://github.com/LorenzoDrudi/LorenzoDrudi/blob/main/resources/LorenzoDrudi_resume.pdf" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/drudilorenzo/drudilorenzo/blob/main/resources/waving.gif">, I'm Lorenzo</h1>
+<h4 align="center">MSc student in Computer Science at EPFL, see my <a href="https://github.com/drudilorenzo/drudilorenzo/blob/main/resources/LorenzoDrudi_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 > Software and cathedrals are much the same; first we build them, then we pray.
@@ -38,13 +38,13 @@
       <br/>
       <a href="https://www.linkedin.com/in/drudilorenzo/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LorenzoDrudi" height="30"/></a>
+         alt="drudilorenzo" height="30"/></a>
       <a href="mailto:lorenzodrudi11@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="LorenzoDrudi" height="30"/></a>
+         alt="drudilorenzo" height="30"/></a>
       <a href="https://instagram.com/drudao_" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="LorenzoDrudi" height="30"/></a>
+         alt="drudilorenzo" height="30"/></a>
     </p>
   </samp>
 </div>
