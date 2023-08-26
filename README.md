@@ -141,7 +141,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+MATLAB        1 hr 30 mins    █████████████████████████   99.44 %
+Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
