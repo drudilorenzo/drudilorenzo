@@ -141,10 +141,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 13 mins   ██████████████████████▓░░   90.38 %
-Bash       14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-GDScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
