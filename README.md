@@ -20,7 +20,7 @@
 
 - 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude (Alma Mater Studiorum - University of Bologna)
 
-- 📚 Master student in Computer Science at EPFL (Software systems)
+- 📚 Master student in Computer Science at EPFL (Data Analytics)
 
 - 📫 Feel free to reach me out at **lorenzodrudi11@gmail.com**
 
