@@ -13,10 +13,10 @@
 <!--Intro start-->
 #### About me:
 - 🔭 Main focus:
-  - Backend programming
-  - Distributed systems
-  - Machine Learning / Data Analysis
-  - Application of Machine Learning to Finance
+  - Backend Programming
+  - Distributed Systems
+  - Machine Learning
+  - Natural Language Processing
 
 - 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude (Alma Mater Studiorum - University of Bologna)
 
