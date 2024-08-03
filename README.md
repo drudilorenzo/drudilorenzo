@@ -26,7 +26,7 @@
 
 - 📫 Feel free to reach me out at **lorenzodrudi11@gmail.com**
 
-- 🏠 Living between Lausanne (Switzerland) and Rimini (Italy)
+- 📍 Currently in Dublin (Ireland) | 🏠 From Rimini (Italy)
 <!--Intro end-->
 
 -----
