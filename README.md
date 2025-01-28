@@ -22,11 +22,11 @@
 
 - 📚 Master student in Computer Science at EPFL (Data Analytics)
 
-- 💻 SDE Intern @ AWS CloudWatch Alarms 
+- 💻 Ex SDE Intern @ AWS CloudWatch Alarms 
 
 - 📫 Feel free to reach me out at **lorenzodrudi11@gmail.com**
 
-- 📍 Currently in Dublin (Ireland) | 🏠 From Rimini (Italy)
+- 📍 Currently in Lausanne (Switzerland) | 🏠 From Rimini (Italy)
 <!--Intro end-->
 
 -----
