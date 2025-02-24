@@ -141,7 +141,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Scala      1 hr 1 min      ██████████▓░░░░░░░░░░░░░░   42.75 %
+Python     54 mins         █████████▓░░░░░░░░░░░░░░░   38.03 %
+HTML       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+CSS        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
