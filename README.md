@@ -141,8 +141,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Scala            17 hrs 6 mins   █████████████████████████   99.35 %
-GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Scala    15 hrs 50 mins  █████████████████████████   99.40 %
+Python   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
