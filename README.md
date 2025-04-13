@@ -141,8 +141,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Scala    9 hrs 42 mins   ████████████████████████▓   99.02 %
-Python   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Scala    7 hrs 28 mins   ████████████████████████▓   98.73 %
+Python   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
