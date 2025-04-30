@@ -141,7 +141,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Scala      3 hrs 22 mins   ████████████████████████▓   98.16 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
