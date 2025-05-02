@@ -141,8 +141,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Scala      3 hrs 22 mins   ████████████████████████▓   98.16 %
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Scala      3 hrs 25 mins   ███████████████████████▓░   94.11 %
+Markdown   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 ```
 
 <!--END_SECTION:waka-->
