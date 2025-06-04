@@ -20,7 +20,7 @@
 
 - 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude (Alma Mater Studiorum - University of Bologna)
 
-- 📚 Master student in Computer Science at EPFL (AI & Data Science)
+- 📚 Master student in Computer Science @ EPFL (AI & Data Science)
 
 - 💻 MLH '22 @ [G-Research Open-Source](https://www.gresearch.com/teams/open-source-software/)
 
