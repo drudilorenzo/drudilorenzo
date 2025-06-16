@@ -113,10 +113,10 @@
       <table align="center">
         <tr border="none">
           <td width="50%" align="center">
-            <img src="https://github-readme-stats-lorenzodrudi.vercel.app/api?username=drudilorenzo&count_private=true&show_icons=true&theme=gruvbox">
+            <img src="https://github-readme-stats-lorenzodrudi.vercel.app/api?username=drudilorenzo&count_private=true&show_icons=true&theme=dracula">
           </td>
           <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drudilorenzo&count_private=true&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drudilorenzo&hide=html,css,xslt,makefile&langs_count=30&count_private=true&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
           </td>
         </tr>
       </table>
