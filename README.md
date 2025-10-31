@@ -147,8 +147,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C            9 hrs 25 mins   ████████████████████████▓   98.77 %
-Devicetree   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+C            10 hrs 37 mins  ████████████████████████▓   98.90 %
+Devicetree   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
