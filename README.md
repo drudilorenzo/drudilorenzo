@@ -3,7 +3,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/drudilorenzo/drudilorenzo/blob/main/resources/waving.gif">, I'm Lorenzo</h1>
-<h4 align="center">MSc student in Computer Science at EPFL, see my <a href="https://github.com/drudilorenzo/drudilorenzo/blob/main/resources/CV_LorenzoDrudi.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">Software Engineer, see my <a href="https://github.com/drudilorenzo/drudilorenzo/blob/main/resources/CV_LorenzoDrudi.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 > Software and cathedrals are much the same; first we build them, then we pray.
@@ -32,7 +32,7 @@
 
 - 📫 Feel free to reach me out at **lorenzodrudi11@gmail.com**
 
-- 📍 Currently in Lausanne (Switzerland) | 🏠 From Rimini (Italy)
+- 📍 Rimini (Italy)
 <!--Intro end-->
 
 -----
