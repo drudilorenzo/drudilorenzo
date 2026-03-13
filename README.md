@@ -18,7 +18,7 @@
   - Real-world Applications
   - Natural Language Processing
 
-- 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude (Alma Mater Studiorum - University of Bologna)
+- 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude
 
 - 🎓 Master student in Computer Science @ EPFL (AI & Data Science)
 
