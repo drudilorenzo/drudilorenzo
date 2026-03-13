@@ -20,15 +20,11 @@
 
 - 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude (Alma Mater Studiorum - University of Bologna)
 
-- 📚 Master student in Computer Science @ EPFL (AI & Data Science)
+- 🎓 Master student in Computer Science @ EPFL (AI & Data Science)
 
-- 💻 MLH '22 @ [G-Research Open-Source](https://www.gresearch.com/teams/open-source-software/)
+- 💻 MLH '22 @ [G-Research Open-Source](https://www.gresearch.com/teams/open-source-software/) & GSoC '25 @ [Google Deepmind](http://summerofcode.withgoogle.com/programs/2025/projects/naa1qGoe)
 
-- 💻 Ex SDE Intern @ AWS CloudWatch Alarms
-
-- 💻 GSoC '25 @ [Google Deepmind](http://summerofcode.withgoogle.com/programs/2025/projects/naa1qGoe)
-
-- 💻 Engineering Intern @ Logitech (CTO Office) 
+- 💻 Ex SDE Intern @ AWS (CloudWatch Alarms) & Engineering Intern @ Logitech (CTO Office) 
 
 - 📫 Feel free to reach me out at **lorenzodrudi11@gmail.com**
 
