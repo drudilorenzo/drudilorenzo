@@ -18,7 +18,7 @@
   - Real-world Applications
   - Natural Language Processing
  
-- 💻 Software Engineer @ Bending Spoons (Remini AI)
+- 💻 Software Engineer @ Bending Spoons (Remini AI Photography)
 
 - 🎓 Bachelor in Computer Science and Engineering at @ UNIBO, 110/110 cum laude
 
