@@ -125,25 +125,5 @@
   </div>    
 </details>
 
-<details>
-  <summary>📈 Latest Activity</summary>
-    <div>
-      <samp>
-        <h2 align="center"> Real-time coding activity (in the last 7 days):</h2>
-      </samp>
-    </div> 
-  
-<p align="center">        
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</p>
-  
-</details>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
